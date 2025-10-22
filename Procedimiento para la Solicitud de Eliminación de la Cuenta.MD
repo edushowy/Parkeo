@@ -43,4 +43,5 @@ El correo electrónico de solicitud debe incluir de forma explícita la siguient
 3.  Se le enviará un correo de confirmación final informando que la eliminación se ha completado.
 
 
-**El proceso de eliminación se completará en un plazo máximo de [Especificar un plazo razonable, ej: 5 días hábiles] a partir de la recepción de la solicitud correcta y completa.**
+**El proceso de eliminación se completará en un plazo máximo de 15 días hábiles a partir de la recepción de la solicitud correcta y completa.**
+
