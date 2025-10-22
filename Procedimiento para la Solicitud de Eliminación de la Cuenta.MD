@@ -22,7 +22,7 @@ Al solicitar la eliminación de su cuenta, usted acepta que:
 
 Para proceder con la eliminación de su cuenta, debe enviar una solicitud por correo electrónico a la dirección designada para tal fin:
 
-**Correo Electrónico de Solicitud:** [Insertar Correo Electrónico para Soporte/Bajas, Ej: soporte.parqueo.fi@usac.edu.gt]
+**Correo Electrónico de Solicitud:** soporte.parkeo@gmail.com
 
 ### 2.1. Información Requerida en el Correo
 
@@ -41,5 +41,6 @@ El correo electrónico de solicitud debe incluir de forma explícita la siguient
 1.  Una vez recibido el correo con toda la información y el adjunto requerido, el personal administrativo revisará la solicitud y verificará la identidad del solicitante.
 2.  Si la información es correcta, se procederá con la eliminación de la cuenta y todos los datos asociados.
 3.  Se le enviará un correo de confirmación final informando que la eliminación se ha completado.
+
 
 **El proceso de eliminación se completará en un plazo máximo de [Especificar un plazo razonable, ej: 5 días hábiles] a partir de la recepción de la solicitud correcta y completa.**
