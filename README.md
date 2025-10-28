@@ -15,73 +15,73 @@ La Aplicación está diseñada para gestionar y facilitar el acceso al parqueo d
 
 Recopilamos la siguiente información personal de los usuarios previamente registrados por el personal del parqueo:
 
-    Información de Identificación y Contacto:
+Información de Identificación y Contacto:
 
-        Número de Carnet (como identificador único de usuario).
+Número de Carnet (como identificador único de usuario).
 
-        Nombre Completo.
+Nombre Completo.
 
-    Información del Vehículo:
+Información del Vehículo:
 
-        Número de Placa del Vehículo.
+Número de Placa del Vehículo.
 
-    Información Biométrica y de Seguridad:
+Información Biométrica y de Seguridad:
 
-        Fotografía de Rostro: Se toma una fotografía del usuario al momento del registro. Esta imagen se almacena en el servidor para ser mostrada en el perfil del usuario.
+Fotografía de Rostro: Se toma una fotografía del usuario al momento del registro. Esta imagen se almacena en el servidor para ser mostrada en el perfil del usuario.
 
-        Métricas Faciales (Datos Biométricos): A partir de la fotografía, se extraen métricas y datos biométricos necesarios para la comparación del rostro cada vez que se usa la función de reconocimiento facial. Esta información se utiliza únicamente para el propósito del reconocimiento y verificación de identidad.
+Métricas Faciales (Datos Biométricos): A partir de la fotografía, se extraen métricas y datos biométricos necesarios para la comparación del rostro cada vez que se usa la función de reconocimiento facial. Esta información se utiliza únicamente para el propósito del reconocimiento y verificación de identidad.
 
-    Información de Acceso:
+Información de Acceso:
 
-        Contraseña (almacenada de forma cifrada).
+Contraseña (almacenada de forma cifrada).
 
-    Información de Uso y Transaccional:
+Información de Uso y Transaccional:
 
-        Registros de ingreso y salida del parqueo.
+Registros de ingreso y salida del parqueo.
 
-        Cantidad de créditos o saldo (si aplica).
+Cantidad de créditos o saldo (si aplica).
 
-        Estadísticas de uso del parqueo (solo visible para administradores).
+Estadísticas de uso del parqueo (solo visible para administradores).
 
 3. Uso de la Información
 
 La información que recopilamos se utiliza exclusivamente para los siguientes fines:
 
-    Autenticación y Autorización:
+Autenticación y Autorización:
 
-        Permitir el ingreso a la Aplicación mediante el Número de Carnet y Contraseña.
+Permitir el ingreso a la Aplicación mediante el Número de Carnet y Contraseña.
 
-        Verificar la identidad del usuario a través del reconocimiento facial para el acceso físico al parqueo.
+Verificar la identidad del usuario a través del reconocimiento facial para el acceso físico al parqueo.
 
-    Gestión del Parqueo:
+Gestión del Parqueo:
 
-        Registrar, marcar y controlar los ingresos y salidas de vehículos.
+Registrar, marcar y controlar los ingresos y salidas de vehículos.
 
-        Gestionar y mostrar la información de la cuenta del usuario (nombre, placa, créditos).
+Gestionar y mostrar la información de la cuenta del usuario (nombre, placa, créditos).
 
-        Permitir a los usuarios Tipo Administrador (personal del parqueo) registrar nuevos usuarios, agregar créditos y mostrar estadísticas del uso diario.
+Permitir a los usuarios Tipo Administrador (personal del parqueo) registrar nuevos usuarios, agregar créditos y mostrar estadísticas del uso diario.
 
-    Funcionalidades del Usuario Tipo Administrador:
+Funcionalidades del Usuario Tipo Administrador:
 
-        Registro de nuevos usuarios.
+Registro de nuevos usuarios.
 
-        Gestión de créditos/saldo.
+Gestión de créditos/saldo.
 
-        Control de ingreso/salida.
+Control de ingreso/salida.
 
-        Generación de estadísticas de uso del parqueo.
+Generación de estadísticas de uso del parqueo.
 
-    Funcionalidades del Usuario Tipo Usuario:
+Funcionalidades del Usuario Tipo Usuario:
 
-        Visualización de información de cuenta y créditos.
+Visualización de información de cuenta y créditos.
 
-        Consulta de espacios disponibles en el parqueo.
+Consulta de espacios disponibles en el parqueo.
 
-        Permitir el cambio de nombre y contraseña.
+Permitir el cambio de nombre y contraseña.
 
-    Seguridad:
+Seguridad:
 
-        Mantener la seguridad y protección de las instalaciones y los usuarios del parqueo.
+Mantener la seguridad y protección de las instalaciones y los usuarios del parqueo.
 
 4. Almacenamiento y Seguridad de la Información
 
@@ -103,11 +103,11 @@ Su información personal, incluyendo fotografías y métricas faciales, es exclu
 
 Como usuario de la Aplicación, usted tiene derecho a:
 
-    Acceder a la información personal que tenemos sobre usted.
+Acceder a la información personal que tenemos sobre usted.
 
-    Solicitar la corrección de información que sea inexacta o esté incompleta (a través de la Aplicación o solicitándolo al personal del parqueo).
+Solicitar la corrección de información que sea inexacta o esté incompleta (a través de la Aplicación o solicitándolo al personal del parqueo).
 
-    Solicitar la eliminación de sus datos personales, sujeta a las limitaciones legales y administrativas para la operación del parqueo.
+Solicitar la eliminación de sus datos personales, sujeta a las limitaciones legales y administrativas para la operación del parqueo.
 
 Para ejercer estos derechos, por favor, póngase en contacto con el personal administrativo del parqueo o utilice las opciones de gestión de perfil dentro de la Aplicación.
 
